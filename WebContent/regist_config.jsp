@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=GBK" language="java"%>
 <%@ page import="java.util.Date,java.sql.*"%>
-<jsp:directive.page import="com.wy.CountTime"/>
+<jsp:directive.page import="com.wy.Util.CountTime"/>
 <jsp:useBean id="connection" scope="page" class="com.wy.JDBConnection"/>
 <html>
 <head>

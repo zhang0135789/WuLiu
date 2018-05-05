@@ -1,7 +1,7 @@
 <%@ page contentType="text/html; charset=gb2312"  language="java" %>
 <%@ page import="java.util.*"%>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<jsp:useBean id="countTime" scope="page" class="com.wy.CountTime"/>
+<jsp:useBean id="countTime" scope="page" class="com.wy.Util.CountTime"/>
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" >
   <tr>
     <td  height="80" align="center" background="image/1.jpg">

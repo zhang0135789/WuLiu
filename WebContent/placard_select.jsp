@@ -1,5 +1,4 @@
 <%@ page contentType="text/html; charset=gb2312" language="java" import="java.sql.*" errorPage="" %>
-<%@ page import="java.sql.*"%>
 <jsp:useBean id="connection" scope="page" class="com.wy.JDBConnection"/>
 <html>
 <head>
